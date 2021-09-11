@@ -1,4 +1,4 @@
-<h1>Hello Folks, My name is Sergei</h1>
+<h1>Hello Folks, My name is Sergiy</h1>
 
 - I am Junior Data Analyst/ Data Scientist/ Machine Learning Scientist
 - Currently in a search for the internship during the AI Operator traing @[BeCode](https://becode.org/)
