@@ -33,6 +33,9 @@ ___
 
 <h3>Machine Learning & Deep Learning</h3>
 
+<p><img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" style="max-width:100%;"></p>
+<p>Pytorch</p>
+
 <p><img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png" style="max-width:100%;"></p>
 <p>Tensorflow</p>
 
